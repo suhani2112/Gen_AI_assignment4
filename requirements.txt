@@ -1,0 +1,6 @@
+# Python 3.10+. For a CUDA build of PyTorch see README.md.
+torch>=2.4,<3
+transformers>=4.51,<5
+diffusers>=0.33,<1
+accelerate>=1.0,<2
+safetensors>=0.4,<1
